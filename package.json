@@ -1,6 +1,6 @@
 {
   "author": "Theo Ephraim <theozero@gmail.com> (https://theoephraim.com)",
-  "name": "google-spreadsheet",
+  "name": "@lndgalante/google-spreadsheet",
   "description": "Google Sheets API (v4) -- simple interface to read/write data and manage sheets",
   "version": "3.3.0",
   "license": "Unlicense",
@@ -64,5 +64,13 @@
       "/examples/",
       "/test/"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/theoephraim/node-google-spreadsheet/issues"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
   }
 }
