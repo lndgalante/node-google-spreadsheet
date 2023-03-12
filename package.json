@@ -16,6 +16,7 @@
     "api",
     "googleapis"
   ],
+  "sideEffects": "false",
   "homepage": "https://theoephraim.github.io/node-google-spreadsheet",
   "repository": {
     "type": "git",
